@@ -1,12 +1,12 @@
 # Git Reference
 
-# :computer: For best results use the command line
+## :computer: For best results use the command line
 It might seem more complicated, but it leads to an understanding that will get you through any troubles you run in to.
 
-# :arrow_down: Get it [here](https://git-scm.com/download/win).
+## :arrow_down: Get it [here](https://git-scm.com/download/win).
 
-#The most commonly used commands:
- Command | Description | Example |
+## The most commonly used commands:
+| Command | Description | Example |
 |-----------|-----------|---------|
 |git status | Tells you what is going on with your working folder | git status |
 |git fetch  |     Updates your local repo from the remote, but doesn't modify your working folder.| git fetch |
@@ -18,8 +18,8 @@ It might seem more complicated, but it leads to an understanding that will get y
 
 If you know how to use the above commands easily, then anything else can be looked up on the google at the time of need.  Additionally, some very useful commands that don't get used as often can be found below.
 
-#Useful Commands:
- Command | Description | Example |
+## Useful Commands:
+| Command | Description | Example |
 |-----------|-----------|---------|
 |git remote| Manage interactions with tracked repositories|git remote add _name url_|
 |git remote update|Refresh remote branches (on your machine) to match the server (remote). This will add or remove any remote branches defined in your local git. *(it basically cleans things up)* if used as shown in the example.| git remote update origin --prune|
