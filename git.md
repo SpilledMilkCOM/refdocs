@@ -1,11 +1,11 @@
 # Git Reference
 
-## :computer: For best results use the command line
+### :computer: For best results use the command line
 It might seem more complicated, but it leads to an understanding that will get you through any troubles you run in to.
 
-## :arrow_down: Get it [here](https://git-scm.com/download/win).
+### :arrow_down: Get it [here](https://git-scm.com/download/win).
 
-## The most commonly used commands:
+### The most commonly used commands:
 | Command | Description | Example |
 |-----------|-----------|---------|
 |git status | Tells you what is going on with your working folder | git status |
@@ -18,7 +18,7 @@ It might seem more complicated, but it leads to an understanding that will get y
 
 If you know how to use the above commands easily, then anything else can be looked up on the google at the time of need.  Additionally, some very useful commands that don't get used as often can be found below.
 
-## Useful Commands:
+### Useful Commands:
 | Command | Description | Example |
 |-----------|-----------|---------|
 |git remote| Manage interactions with tracked repositories|git remote add _name url_|
