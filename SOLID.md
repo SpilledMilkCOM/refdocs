@@ -13,7 +13,7 @@ Michael Feathers introduced the acronymn
     “There should never be more than one reason for a class to change.”
 
 * A **SINGLE** resonsibility for a class.
-* If a class is handling many different responsibilities then 
+* If a class is handling many different responsibilities then it may need to change
 * Leads to better readability and less complexity.
 
 ## 2. Open-closed Principle
