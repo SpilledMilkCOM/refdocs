@@ -13,12 +13,14 @@ Michael Feathers introduced the acronymn
     “There should never be more than one reason for a class to change.”
 
 * A **SINGLE** resonsibility for a class.
-* If a class is handling many different responsibilities then it may need to change
+* If a class is handling many different responsibilities then it may need to change too often based on its underlying framework or needs of the application.
 * Leads to better readability and less complexity.
 
 ## 2. Open-closed Principle
 
     “Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.”
+
+* Use Dependency Injection or Inheritance for extension.
 
 ## 3. Liskov Substitution Principle
 
@@ -30,6 +32,8 @@ Michael Feathers introduced the acronymn
 
     “Classes that implement interfaces, should not be forced to implement methods they do not use.”
     "Many client-specific interfaces are better than one general-purpose interface."
+
+* If the class is throwing `NotImplemented` exceptions or doing nothing, then maybe rethink those methods or the entire class.
 
 ## 5. Dependency Inversion Principle
 
