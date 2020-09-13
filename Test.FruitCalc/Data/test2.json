@@ -1,0 +1,28 @@
+{
+    "Items": [
+        {
+            "Name": "Oranges",
+            "Cost": 10
+        },
+        {
+            "Name": "Apples",
+            "Cost": 5
+        }
+    ],
+    "Promotions": [
+        {
+            "Name": "Oranges",
+            "Discount": 0.5
+        }
+    ],
+    "Basket": [
+        {
+            "Name": "Oranges",
+            "Count": 5
+        },
+        {
+            "Name": "Apples",
+            "Count": 1
+        }
+    ]
+}

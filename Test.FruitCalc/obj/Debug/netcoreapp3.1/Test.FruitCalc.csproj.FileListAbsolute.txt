@@ -1,0 +1,4 @@
+C:\Users\Parker\Source\Repos\refdocs\Test.FruitCalc\obj\Debug\netcoreapp3.1\Test.FruitCalc.csprojAssemblyReference.cache
+C:\Users\Parker\Source\Repos\refdocs\Test.FruitCalc\obj\Debug\netcoreapp3.1\Test.FruitCalc.AssemblyInfoInputs.cache
+C:\Users\Parker\Source\Repos\refdocs\Test.FruitCalc\obj\Debug\netcoreapp3.1\Test.FruitCalc.AssemblyInfo.cs
+C:\Users\Parker\Source\Repos\refdocs\Test.FruitCalc\obj\Debug\netcoreapp3.1\Test.FruitCalc.csproj.CoreCompileInputs.cache

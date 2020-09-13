@@ -1,11 +1,13 @@
 using System.Collections.Generic;
 
-interface IBasket {
-    void Add(IItem item);
+namespace SM.Interfaces
+{
+    public interface IBasket
+    {
+        IEnumerable<IValidItem> Items { get; }
 
-    void Clear();
+        void Add(IValidItem item);
 
-    void Remove(IItem item);
-
-    IEnumerable<IItem> Items();
+        void Clear();
+    }
 }

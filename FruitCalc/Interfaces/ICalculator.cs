@@ -1,4 +1,7 @@
-interface ICalculator {
-
-    decimal Calc();
+namespace SM.Interfaces
+{
+    public interface ICalculator
+    {
+        decimal Calc();
+    }
 }

@@ -11,3 +11,5 @@ C:\Users\Parker\Source\Repos\refdocs\FruitCalc\bin\Debug\netcoreapp3.1\FruitCalc
 C:\Users\Parker\Source\Repos\refdocs\FruitCalc\obj\Debug\netcoreapp3.1\FruitCalc.dll
 C:\Users\Parker\Source\Repos\refdocs\FruitCalc\obj\Debug\netcoreapp3.1\FruitCalc.pdb
 C:\Users\Parker\Source\Repos\refdocs\FruitCalc\obj\Debug\netcoreapp3.1\FruitCalc.genruntimeconfig.cache
+C:\Users\Parker\Source\Repos\refdocs\FruitCalc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Parker\Source\Repos\refdocs\FruitCalc\obj\Debug\netcoreapp3.1\FruitCalc.csproj.CopyComplete

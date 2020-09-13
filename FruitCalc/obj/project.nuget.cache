@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LDSmSxIuoqlTtSMmk4g1gjwXGey+ZF7wUuzaRmYBVI40oYNco9lk9pBafoYb2A2FzXZUVikglVwq+n5/NEXDSQ==",
+  "dgSpecHash": "2bjjv6V7pUFx73QX5LA1g26T0Iprszl/C7FA0m7mJQOX1T8MDjDpxJJBLl5nIwYgUV0Dzcgojg2xlHwSx3Yc9g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Parker\\Source\\Repos\\refdocs\\FruitCalc\\FruitCalc.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Parker\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

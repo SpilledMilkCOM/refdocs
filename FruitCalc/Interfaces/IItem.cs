@@ -1,8 +1,13 @@
-interface IItem
+namespace SM.Interfaces
 {
-    decimal Cost { get; }
+    public interface IItem
+    {
+        int Count { get; set; }
 
-    string Name { get; }
+        decimal Cost { get; set; }
 
-    float? Discount { get; }
+        float? Discount { get; set; }
+
+        string Name { get; }
+    }
 }
