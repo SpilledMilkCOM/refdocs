@@ -1,0 +1,13 @@
+C:\Users\Parker\Source\Repos\refdocs\FruitCalc\obj\Debug\netcoreapp3.1\FruitCalc.csprojAssemblyReference.cache
+C:\Users\Parker\Source\Repos\refdocs\FruitCalc\obj\Debug\netcoreapp3.1\FruitCalc.AssemblyInfoInputs.cache
+C:\Users\Parker\Source\Repos\refdocs\FruitCalc\obj\Debug\netcoreapp3.1\FruitCalc.AssemblyInfo.cs
+C:\Users\Parker\Source\Repos\refdocs\FruitCalc\obj\Debug\netcoreapp3.1\FruitCalc.csproj.CoreCompileInputs.cache
+C:\Users\Parker\Source\Repos\refdocs\FruitCalc\bin\Debug\netcoreapp3.1\FruitCalc.exe
+C:\Users\Parker\Source\Repos\refdocs\FruitCalc\bin\Debug\netcoreapp3.1\FruitCalc.deps.json
+C:\Users\Parker\Source\Repos\refdocs\FruitCalc\bin\Debug\netcoreapp3.1\FruitCalc.runtimeconfig.json
+C:\Users\Parker\Source\Repos\refdocs\FruitCalc\bin\Debug\netcoreapp3.1\FruitCalc.runtimeconfig.dev.json
+C:\Users\Parker\Source\Repos\refdocs\FruitCalc\bin\Debug\netcoreapp3.1\FruitCalc.dll
+C:\Users\Parker\Source\Repos\refdocs\FruitCalc\bin\Debug\netcoreapp3.1\FruitCalc.pdb
+C:\Users\Parker\Source\Repos\refdocs\FruitCalc\obj\Debug\netcoreapp3.1\FruitCalc.dll
+C:\Users\Parker\Source\Repos\refdocs\FruitCalc\obj\Debug\netcoreapp3.1\FruitCalc.pdb
+C:\Users\Parker\Source\Repos\refdocs\FruitCalc\obj\Debug\netcoreapp3.1\FruitCalc.genruntimeconfig.cache
