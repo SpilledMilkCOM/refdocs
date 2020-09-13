@@ -32,3 +32,12 @@
 
 * Latest .Net Core (3.0+) Command Line
 * JSON File Input
+* During test:
+  * I really wanted to include unit tests, but time got short.
+  * Swiped the deserialization code from another project.
+  * I **should** have used Visual Studio instead of VS Code since it's more suited for C# and speeds things along.
+    * As a result I spent time looking for things and trying to get projects and references hooked up.
+  * Probably **more** validation could have been added, but that would have come from more unit tests and looking at the code coverage.
+  * Spent **more** than an hour, but if this was a monitored test I'd be talking with the proctor to see what I could leave behind...  Unless they just left me in a room, then I'd be typing up more notes **as** I was taking the test.
+  * All in all, I'm pretty happy with my solution and the breakdown of each model (even though some of the classes were not models).
+  
