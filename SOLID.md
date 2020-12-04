@@ -39,7 +39,8 @@ Michael Feathers introduced the acronymn
 
 ## 5. Dependency Inversion Principle
 
-    “High level modules should not depend on low level modules rather both should depend on abstraction. Abstraction should not depend on details; rather detail should depend on abstraction.”
+    “High level modules should not depend on low level modules rather both should depend on abstraction.
+    Abstraction should not depend on details; rather detail should depend on abstraction.”
 
 * **INTERFACES!!**
 
