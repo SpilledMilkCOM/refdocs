@@ -21,12 +21,14 @@ Michael Feathers introduced the acronymn
     “Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.”
 
 * Use Dependency Injection or Inheritance for extension.
+* If you want flexibity the either inject it or use overrides.
 
 ## 3. Liskov Substitution Principle
 
     “subtypes must be substitutable for their base types”
 
 * Able to replace/substitue subclasses of a base type without the application crashing.
+* Make sure that all of the methods implemented in the interface actually **work**, or at the very least don't crash. (see #4 below)
 
 ## 4. Interface Segregation Principle
 
