@@ -31,3 +31,13 @@
 * Proof of concept in .Net Core against vanilla API.
 * Assisted with **Angular** (version ?)
 * **GraphQL** - Second phase of the Noovie API.
+
+## Azure
+
+* Service Bus
+* Storage
+* Active Directory
+* Key Vault
+* Web Apps
+* Logic Apps
+* Function Apps
