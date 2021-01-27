@@ -41,3 +41,4 @@
 * Web Apps
 * Logic Apps
 * Function Apps
+* Cognitive Services
