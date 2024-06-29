@@ -42,3 +42,4 @@
 * Logic Apps
 * Function Apps
 * Cognitive Services
+* Redis Cache
