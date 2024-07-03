@@ -1,6 +1,6 @@
 # 💊 Red Pill 💊
 
-This document is mostly for my reference, but I can share it out to people who keep believing the "main stream media".  Good ole Joe keeps referencing the **Charlottesville Hoax** and many other hoaxes.  So if he keeps repeating hoaxes as truths, then he's lying.  Constantly lying.
+This document is mostly for my reference, but I can share it out to people who keep believing the "main stream media".  Good ole Joe keeps referencing the [**Charlottesville Hoax**](https://justthenews.com/accountability/watchdogs/left-leaning-fact-checker-says-trump-never-called-charlottesville-neo) and many other hoaxes.  So if he keeps repeating hoaxes as truths, then he's lying.  Constantly lying.
 
 ## 🎖️ [Trump Administration Accomplishments](https://trumpwhitehouse.archives.gov/trump-administration-accomplishments/)
 
@@ -15,4 +15,8 @@ I know people are lazy [_(TL;DR)_](https://www.howtogeek.com/435266/what-does-tl
 * Achieving a Secure Border
 * Safeguarding the Environment
 
-## The Economy Stupid
+## 💵 "The Economy Stupid" - _(James Carville)_
+
+* TODO: Insert inflation graph here.
+* 📈 [US Inflation Rates: 2000-2024](https://www.usinflationcalculator.com/inflation/current-inflation-rates/)
+* [**All In Podcast**](https://www.youtube.com/@allin) explains inflation on [Here](https://www.youtube.com/watch?v=B-neJevevO4)
