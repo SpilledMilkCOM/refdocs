@@ -8,6 +8,8 @@ A handy repo for information that I may need if the original source becomes unav
 
 ### [📃 SOLID (cheat sheet)](https://github.com/SpilledMilkCOM/refdocs/blob/master/SOLID.md)
 
+### [💊 Red Pill](https://github.com/SpilledMilkCOM/refdocs/blob/master/RedPill.md)
+
 ## Links
 
 ### [🔟 Common Architectural Patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)

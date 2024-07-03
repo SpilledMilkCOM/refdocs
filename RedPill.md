@@ -20,3 +20,7 @@ I know people are lazy [_(TL;DR)_](https://www.howtogeek.com/435266/what-does-tl
 * TODO: Insert inflation graph here.
 * 📈 [US Inflation Rates: 2000-2024](https://www.usinflationcalculator.com/inflation/current-inflation-rates/)
 * [**All In Podcast**](https://www.youtube.com/@allin) explains inflation on [Here](https://www.youtube.com/watch?v=B-neJevevO4)
+
+## 🛂 Border Security
+
+* We don't have a country, if we don't have a strong border.
